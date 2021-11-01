@@ -9,4 +9,4 @@
     quotes[5] = "Berti Vogts:<br/><br/>Hass gehört nicht ins Stadion.<br/>Solche Gefühle soll man gemeinsam mit seiner Frau daheim im Wohnzimmer ausleben.";
     
     var rand = Math.floor(Math.random()*quotes.length);
-    document.write(quotes[rand]);
+    document.write(quotes[rand]);}
